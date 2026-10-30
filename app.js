@@ -1,3 +1,215 @@
+window.PSM_I18N={
+"de": {
+"Practice": "Übung",
+"Answer one question at a time and see right away where you went wrong.": "Beantworte eine Frage nach der anderen und sieh sofort, wo der Fehler liegt.",
+"Which questions": "Welche Fragen",
+"All": "Alle",
+"New": "Neue",
+"Mistakes": "Fehler",
+"Flagged": "Markiert",
+"⚠️ Disputed": "⚠️ Strittige",
+"How many": "Wie viele",
+"Question order": "Reihenfolge der Fragen",
+"Random": "Zufällig",
+"By number": "Nach Nummer",
+"Question language": "Fragensprache",
+"Off": "Aus",
+"When wrong": "Bei Fehler",
+"After every answer": "Nach jeder Antwort",
+"Shuffle answer options. Questions with options like “All of the above” keep their original order.": "Antwortoptionen mischen. Fragen mit Optionen wie „All of the above“ behalten ihre ursprüngliche Reihenfolge.",
+"Start: ": "Start: ",
+"No questions in this group yet": "In dieser Gruppe gibt es noch keine Fragen",
+"Recent attempts": "Letzte Versuche",
+"Mock exam": "Probeprüfung",
+"Like the real PSM I: no hints and no translation until you press “Finish”. The review with explanations opens at the end.": "Wie beim echten PSM I: keine Hinweise und keine Übersetzung, bis du auf „Beenden“ drückst. Die Auswertung mit Erklärungen öffnet sich am Ende.",
+"Questions": "Fragen",
+"Time": "Zeit",
+"60 minutes": "60 Minuten",
+"Passing score": "Bestehensgrenze",
+"85% (68 of 80)": "85 % (68 von 80)",
+"Number of correct answers": "Anzahl richtiger Antworten",
+"not shown": "wird nicht angezeigt",
+"Start exam": "Prüfung starten",
+"Press again: all progress will be deleted": "Noch einmal drücken: Der gesamte Fortschritt wird gelöscht",
+"Reset progress": "Fortschritt zurücksetzen",
+"Save progress to file": "Fortschritt in Datei speichern",
+"Load progress from file": "Fortschritt aus Datei laden",
+"File psm1-progress.json saved.": "Datei psm1-progress.json gespeichert.",
+"Could not save the file.": "Datei konnte nicht gespeichert werden.",
+"Progress loaded.": "Fortschritt geladen.",
+"This file does not look like saved progress.": "Diese Datei sieht nicht wie ein gespeicherter Fortschritt aus.",
+"Install app": "App installieren",
+"Install on your phone. iPhone and iPad (Safari): Share button, then “Add to Home Screen”. Android (Chrome): ⋮ menu, then “Install app”. After that the questions work offline.": "Installation auf dem Handy. iPhone und iPad (Safari): Teilen-Button, dann „Zum Home-Bildschirm“. Android (Chrome): Menü ⋮, dann „App installieren“. Danach funktionieren die Fragen offline.",
+"PSM I Trainer": "PSM I Trainer",
+"total questions": "Fragen insgesamt",
+"answered so far": "bisher beantwortet",
+"correct last time": "beim letzten Mal richtig",
+"to review": "zu wiederholen",
+"correct": "richtig",
+"wrong": "falsch",
+"not answered yet": "noch nicht beantwortet",
+"The correct answers were written by a community, so they can contain mistakes and outdated wording (Scrum Guide before 2020). The explanations were checked against the Scrum Guide 2020; ⚠️ marks places where the key differs from the Guide or covers a practice outside Scrum. If in doubt, check the Guide.": "Die richtigen Antworten wurden von einer Community verfasst, daher können sie Fehler und veraltete Formulierungen enthalten (Scrum Guide vor 2020). Die Erklärungen wurden mit dem Scrum Guide 2020 abgeglichen; ⚠️ markiert Stellen, an denen der Schlüssel vom Guide abweicht oder eine Praxis außerhalb von Scrum betrifft. Im Zweifel prüfe im Guide nach.",
+"Questions source: ": "Quelle der Fragen: ",
+"Ditectrev on GitHub": "Ditectrev auf GitHub",
+". Translation and explanations: Claude.": ". Übersetzung und Erklärungen: Claude.",
+"should have been selected": "hätte ausgewählt werden müssen",
+"Quit without a result?": "Ohne Ergebnis beenden?",
+"Quit": "Verlassen",
+"Finish": "Beenden",
+"Menu": "Menü",
+" correct": " richtig",
+"Choose ": "Wähle ",
+"One answer": "Eine Antwort",
+"Flag for later": "Für später markieren",
+"Back": "Zurück",
+"Next": "Weiter",
+"Show explanation": "Erklärung anzeigen",
+"Check": "Prüfen",
+"Question navigation": "Navigation durch die Fragen",
+"Question ": "Frage ",
+", answered": ", beantwortet",
+"Filled: answer selected. Dot: question flagged.": "Ausgefüllt: Antwort gewählt. Punkt: Frage markiert.",
+"Unanswered: ": "Unbeantwortet: ",
+". They will count as wrong.": ". Sie zählen als falsch.",
+"Yes, finish the exam": "Ja, Prüfung beenden",
+"Finish exam": "Prüfung beenden",
+"Keys: 1–9 select an option, ← → move between questions.": "Tasten: 1–9 Option wählen, ← → zwischen Fragen wechseln.",
+"Keys: 1–9 select an option, Enter check / next": "Tasten: 1–9 Option wählen, Enter prüfen / weiter",
+", E explanation.": ", E Erklärung.",
+"Correct.": "Richtig.",
+"Wrong. The correct answers are marked green.": "Falsch. Die richtigen Antworten sind grün markiert.",
+"Review filter": "Filter der Auswertung",
+" and skipped": " und übersprungen",
+"All questions": "Alle Fragen",
+"skipped": "übersprungen",
+"No mistakes.": "Keine Fehler.",
+"Nothing to show.": "Nichts anzuzeigen.",
+"Retry mistakes (": "Fehler wiederholen (",
+" correct of ": " richtig von ",
+"Passed: 85% threshold": "Bestanden: Grenze 85 %",
+"Not passed: 85% needed (68 of 80)": "Nicht bestanden: 85 % nötig (68 von 80)",
+"Review": "Auswertung",
+"Interface language": "Sprache der Oberfläche",
+"Switch to light mode": "Helles Design einschalten",
+"Switch to dark mode": "Dunkles Design einschalten",
+"Light mode": "Helles Design",
+"Dark mode": "Dunkles Design",
+"question": "Frage",
+"questions": "Fragen",
+"answer": "Antwort",
+"answers": "Antworten",
+"Flagged ": "Markierte",
+"Explanation": "Erklärung",
+"⚠️ Disputed: questions where the answer key conflicts with the Scrum Guide 2020 or covers practices outside Scrum. Check them against the Guide.": "⚠️ Strittig: Fragen, bei denen der Antwortschlüssel vom Scrum Guide 2020 abweicht oder Praktiken außerhalb von Scrum betrifft. Prüfe sie im Guide.",
+"Prep for the Scrum.org PSM I exam: practice, a timed mock exam and mistake review.": "Vorbereitung auf die Scrum.org-Prüfung PSM I: Übung, Probeprüfung mit Zeitlimit und Fehleranalyse.",
+"Close": "Schließen"
+},
+"es": {
+"Practice": "Práctica",
+"Answer one question at a time and see right away where you went wrong.": "Responde una pregunta cada vez y ve al instante dónde te equivocaste.",
+"Which questions": "Qué preguntas",
+"All": "Todas",
+"New": "Nuevas",
+"Mistakes": "Errores",
+"Flagged": "Marcada",
+"⚠️ Disputed": "⚠️ Discutibles",
+"How many": "Cuántas",
+"Question order": "Orden de las preguntas",
+"Random": "Aleatorio",
+"By number": "Por número",
+"Question language": "Idioma de las preguntas",
+"Off": "No",
+"When wrong": "Al fallar",
+"After every answer": "Tras cada respuesta",
+"Shuffle answer options. Questions with options like “All of the above” keep their original order.": "Mezclar las opciones de respuesta. Las preguntas con opciones como “All of the above” mantienen su orden original.",
+"Start: ": "Empezar: ",
+"No questions in this group yet": "Todavía no hay preguntas en este grupo",
+"Recent attempts": "Últimos intentos",
+"Mock exam": "Examen de prueba",
+"Like the real PSM I: no hints and no translation until you press “Finish”. The review with explanations opens at the end.": "Como el PSM I real: sin pistas y sin traducción hasta que pulses “Finalizar”. La revisión con explicaciones se abre al final.",
+"Questions": "Preguntas",
+"Time": "Tiempo",
+"60 minutes": "60 minutos",
+"Passing score": "Nota para aprobar",
+"85% (68 of 80)": "85 % (68 de 80)",
+"Number of correct answers": "Número de respuestas correctas",
+"not shown": "no se muestra",
+"Start exam": "Empezar el examen",
+"Press again: all progress will be deleted": "Pulsa de nuevo: se borrará todo el progreso",
+"Reset progress": "Restablecer el progreso",
+"Save progress to file": "Guardar el progreso en un archivo",
+"Load progress from file": "Cargar el progreso desde un archivo",
+"File psm1-progress.json saved.": "Archivo psm1-progress.json guardado.",
+"Could not save the file.": "No se pudo guardar el archivo.",
+"Progress loaded.": "Progreso cargado.",
+"This file does not look like saved progress.": "Este archivo no parece un progreso guardado.",
+"Install app": "Instalar la app",
+"Install on your phone. iPhone and iPad (Safari): Share button, then “Add to Home Screen”. Android (Chrome): ⋮ menu, then “Install app”. After that the questions work offline.": "Instalación en el móvil. iPhone y iPad (Safari): botón Compartir y luego “Añadir a pantalla de inicio”. Android (Chrome): menú ⋮ y luego “Instalar aplicación”. Después las preguntas funcionan sin conexión.",
+"PSM I Trainer": "PSM I Entrenador",
+"total questions": "preguntas en total",
+"answered so far": "respondidas hasta ahora",
+"correct last time": "correctas la última vez",
+"to review": "por repasar",
+"correct": "correcto",
+"wrong": "incorrecto",
+"not answered yet": "aún sin responder",
+"The correct answers were written by a community, so they can contain mistakes and outdated wording (Scrum Guide before 2020). The explanations were checked against the Scrum Guide 2020; ⚠️ marks places where the key differs from the Guide or covers a practice outside Scrum. If in doubt, check the Guide.": "Las respuestas correctas fueron escritas por una comunidad, por lo que pueden contener errores y formulaciones obsoletas (Scrum Guide anterior a 2020). Las explicaciones se contrastaron con el Scrum Guide 2020; ⚠️ marca los lugares donde la clave difiere de la Guía o trata una práctica ajena a Scrum. Si tienes dudas, consulta la Guía.",
+"Questions source: ": "Fuente de las preguntas: ",
+"Ditectrev on GitHub": "Ditectrev en GitHub",
+". Translation and explanations: Claude.": ". Traducción y explicaciones: Claude.",
+"should have been selected": "debía haberse seleccionado",
+"Quit without a result?": "¿Salir sin resultado?",
+"Quit": "Salir",
+"Finish": "Finalizar",
+"Menu": "Menú",
+" correct": " correctas",
+"Choose ": "Elige ",
+"One answer": "Una respuesta",
+"Flag for later": "Marcar para después",
+"Back": "Atrás",
+"Next": "Siguiente",
+"Show explanation": "Mostrar la explicación",
+"Check": "Comprobar",
+"Question navigation": "Navegación por las preguntas",
+"Question ": "Pregunta ",
+", answered": ", respondida",
+"Filled: answer selected. Dot: question flagged.": "Relleno: respuesta elegida. Punto: pregunta marcada.",
+"Unanswered: ": "Sin responder: ",
+". They will count as wrong.": ". Contarán como incorrectas.",
+"Yes, finish the exam": "Sí, finalizar el examen",
+"Finish exam": "Finalizar el examen",
+"Keys: 1–9 select an option, ← → move between questions.": "Teclas: 1–9 elegir opción, ← → moverse entre preguntas.",
+"Keys: 1–9 select an option, Enter check / next": "Teclas: 1–9 elegir opción, Enter comprobar / siguiente",
+", E explanation.": ", E explicación.",
+"Correct.": "Correcto.",
+"Wrong. The correct answers are marked green.": "Incorrecto. Las respuestas correctas están marcadas en verde.",
+"Review filter": "Filtro de la revisión",
+" and skipped": " y omitidas",
+"All questions": "Todas las preguntas",
+"skipped": "omitida",
+"No mistakes.": "Sin errores.",
+"Nothing to show.": "Nada que mostrar.",
+"Retry mistakes (": "Repetir errores (",
+" correct of ": " correctas de ",
+"Passed: 85% threshold": "Aprobado: umbral del 85 %",
+"Not passed: 85% needed (68 of 80)": "No aprobado: se necesita el 85 % (68 de 80)",
+"Review": "Revisión",
+"Interface language": "Idioma de la interfaz",
+"Switch to light mode": "Activar el modo claro",
+"Switch to dark mode": "Activar el modo oscuro",
+"Light mode": "Modo claro",
+"Dark mode": "Modo oscuro",
+"question": "pregunta",
+"questions": "preguntas",
+"answer": "respuesta",
+"answers": "respuestas",
+"Flagged ": "Marcadas",
+"Explanation": "Explicación",
+"⚠️ Disputed: questions where the answer key conflicts with the Scrum Guide 2020 or covers practices outside Scrum. Check them against the Guide.": "⚠️ Discutibles: preguntas en las que la clave de respuesta difiere del Scrum Guide 2020 o trata prácticas ajenas a Scrum. Compruébalas en la Guía.",
+"Prep for the Scrum.org PSM I exam: practice, a timed mock exam and mistake review.": "Preparación para el examen PSM I de Scrum.org: práctica, examen de prueba con tiempo y repaso de errores.",
+"Close": "Cerrar"
+}
+};
 (function(){
 'use strict';
 var Q = window.PSM_DATA || [];
@@ -11,7 +223,7 @@ function normalize(d){
   d.rec = d.rec && typeof d.rec === 'object' ? d.rec : {};
   d.flag = d.flag && typeof d.flag === 'object' ? d.flag : {};
   d.exams = Array.isArray(d.exams) ? d.exams : [];
-  d.set = Object.assign({src:'all', count:20, order:'random', shuffle:true, lang:'en', expl:'wrong', ui:'ru', theme:'auto'}, d.set || {});
+  d.set = Object.assign({src:'all', count:20, order:'random', shuffle:true, lang:'bi', expl:'wrong', ui:'en', theme:'auto'}, d.set || {});
   return d;
 }
 function load(){
@@ -45,12 +257,14 @@ var FIXED = /\babove\b|\ball answers\b|\bboth\b|\bneither\b|\bnone of\b/i;
 function fixedOrder(q){ return q.opts.some(function(o){ return FIXED.test(o.t); }); }
 function needCount(q){ return q.opts.filter(function(o){ return o.ok; }).length; }
 function isCorrect(it){ return it.q.opts.every(function(o, i){ return o.ok === it.sel.has(i); }); }
+function isWarn(q){ return q.en.indexOf('\u26A0') !== -1; }
 function srcList(src){
   return Q.filter(function(q){
     var r = P.rec[q.id];
     if (src === 'new') return !r;
     if (src === 'wrong') return r && !r.ok;
     if (src === 'flag') return !!P.flag[q.id];
+    if (src === 'warn') return isWarn(q);
     return true;
   });
 }
@@ -58,8 +272,22 @@ function splitRef(text){
   var m = /\s*\((Scrum Guide 2020[^)]*)\)\.?\s*$/.exec(text);
   return m ? {body: text.slice(0, m.index).trim(), ref: m[1]} : {body: text.trim(), ref: ''};
 }
-function t(ru, en){ return P.set.ui === 'en' ? en : ru; }
-function pln(n, ru1, ru2, ru5, en1, en2){ return P.set.ui === 'en' ? (n === 1 ? en1 : en2) : pl(n, ru1, ru2, ru5); }
+var I18N = window.PSM_I18N || {};
+var LANGS = ['en', 'de', 'es', 'ru'];
+var LN = {en:'English', ru:'Русский', de:'Deutsch', es:'Español'};
+var LOC = {en:'en-GB', ru:'ru-RU', de:'de-DE', es:'es-ES'};
+function ui(){ return LANGS.indexOf(P.set.ui) === -1 ? 'en' : P.set.ui; }
+function t(ru, en){ var u = ui(); if (u === 'ru') return ru; if (u === 'en') return en; var d = I18N[u]; return d && d[en] != null ? d[en] : en; }
+function lx(o){ return o[ui()]; }
+function pln(n, ru1, ru2, ru5, en1, en2){ return ui() === 'ru' ? pl(n, ru1, ru2, ru5) : t('', n === 1 ? en1 : en2); }
+/* translation of a question into the interface language (null in English) */
+function tq(q){
+  var u = ui();
+  if (u === 'ru') return {q:q.qr, o:q.opts.map(function(o){ return o.r; }), x:q.ru};
+  if (u === 'de' || u === 'es') return q[u] || null;
+  return null;
+}
+function transOn(){ return ui() !== 'en' && P.set.lang === 'bi'; }
 var standalone = false;
 try { standalone = (window.matchMedia && matchMedia('(display-mode: standalone)').matches) || navigator.standalone === true; } catch(e){}
 var installEvt = null, backupMsg = '';
@@ -171,14 +399,17 @@ function seg(label, options, value, onpick){
     h('span', {class:'eyebrow'}, label),
     h('div', {class:'segs', role:'group', 'aria-label':label},
       options.map(function(o){
-        return h('button', {class:'seg', type:'button', 'aria-pressed': String(o.v === value), disabled: !!o.off, onclick:function(){ onpick(o.v); }},
+        return h('button', {class:'seg', type:'button', 'data-v': String(o.v), 'aria-pressed': String(o.v === value), disabled: !!o.off, onclick:function(){ onpick(o.v); }},
           o.t, o.n != null ? h('small', {class:'mono'}, o.n) : null);
       })));
 }
 
 function explBlock(q){
+  var u = ui(), tr = tq(q), parts = [];
+  if (tr) parts.push([t('Объяснение', 'Explanation') + ' (' + LN[u] + ')', u, tr.x]);
+  parts.push([tr ? t('Explanation', 'Explanation') + ' (English)' : 'Explanation', 'en', q.en]);
   return h('div', {class:'expl'},
-    [[t('Объяснение', 'Explanation (Russian)'), 'ru', q.ru], [t('Explanation', 'Explanation (English)'), 'en', q.en]].map(function(p){
+    parts.map(function(p){
       var s = splitRef(p[2]);
       return h('div', {class:'ex-part'},
         h('span', {class:'eyebrow'}, p[0]),
@@ -190,6 +421,7 @@ function explBlock(q){
 function viewHome(){
   var seen = 0, okc = 0, bad = 0;
   Q.forEach(function(q){ var r = P.rec[q.id]; if (r){ seen++; if (r.ok) okc++; else bad++; } });
+  var warnN = Q.filter(isWarn).length;
   var fresh = Q.length - seen, flagged = Object.keys(P.flag).length, s = P.set;
   var avail = srcList(s.src).length;
   var take = s.count === 'all' ? avail : Math.min(s.count, avail);
@@ -202,12 +434,14 @@ function viewHome(){
       {v:'all', t:t('Все', 'All'), n:Q.length},
       {v:'new', t:t('Новые', 'New'), n:fresh, off:!fresh},
       {v:'wrong', t:t('Ошибки', 'Mistakes'), n:bad, off:!bad},
-      {v:'flag', t:t('Отмеченные', 'Flagged'), n:flagged, off:!flagged}
-    ], s.src, function(v){ s.src = v; save(); render(); }),
+      {v:'flag', t:t('Отмеченные', 'Flagged '), n:flagged, off:!flagged},
+      {v:'warn', t:t('⚠️ Спорные', '⚠️ Disputed'), n:warnN, off:!warnN}
+    ], s.src, function(v){ var had = !!toastEl || justHid; hideToast(); s.src = v; save(); render(); if (v === 'warn' && !had) toast(t('⚠️ Спорные: вопросы, где ключ ответа расходится со Scrum Guide 2020 или касается практик вне Scrum. Проверяй их по Guide.', '⚠️ Disputed: questions where the answer key conflicts with the Scrum Guide 2020 or covers practices outside Scrum. Check them against the Guide.'), app.querySelector('.seg[data-v="warn"]')); }),
     seg(t('Сколько', 'How many'), [{v:10,t:'10'},{v:20,t:'20'},{v:50,t:'50'},{v:'all',t:t('Все', 'All')}], s.count, function(v){ s.count = v; save(); render(); }),
     seg(t('Порядок вопросов', 'Question order'), [{v:'random',t:t('Вперемешку', 'Random')},{v:'seq',t:t('По номерам', 'By number')}], s.order, function(v){ s.order = v; save(); render(); }),
-    seg(t('Язык вопросов', 'Question language'), [{v:'en',t:'English'},{v:'bi',t:t('English + русский по кнопке', 'English + Russian on demand')}], s.lang, function(v){ s.lang = v; save(); render(); }),
-    seg(t('Объяснения на русском и English', 'Explanations in Russian and English'), [{v:'off',t:t('Нет', 'Off')},{v:'wrong',t:t('При ошибке', 'When wrong')},{v:'always',t:t('После каждого ответа', 'After every answer')}], s.expl, function(v){ s.expl = v; save(); render(); }),
+    ui() === 'en' ? null : seg(t('Язык вопросов', 'Question language'), [{v:'en',t:'English'},{v:'bi',t:lx({ru:'English + русский по кнопке', de:'English + Deutsch auf Knopfdruck', es:'English + español con el botón'})}], s.lang, function(v){ s.lang = v; save(); render(); }),
+    ui() === 'en' ? null : seg(lx({ru:'Объяснения на русском и English', de:'Erklärungen auf Deutsch und English', es:'Explicaciones en español y English'}), [{v:'off',t:t('Нет', 'Off')},{v:'wrong',t:t('При ошибке', 'When wrong')},{v:'always',t:t('После каждого ответа', 'After every answer')}], s.expl, function(v){ s.expl = v; save(); render(); }),
+    ui() !== 'en' ? null : seg('Explanations', [{v:'off',t:'Off'},{v:'wrong',t:'When wrong'},{v:'always',t:'After every answer'}], s.expl, function(v){ s.expl = v; save(); render(); }),
     h('div', {class:'field'},
       h('label', {class:'toggle', for:'shuf'},
         h('input', {type:'checkbox', id:'shuf', checked:s.shuffle, onchange:function(e){ s.shuffle = e.target.checked; save(); }}),
@@ -219,7 +453,7 @@ function viewHome(){
     h('ul', null, P.exams.slice(0,5).map(function(e){
       var dt = new Date(e.d);
       return h('li', null,
-        h('span', null, dt.toLocaleDateString(t('ru-RU', 'en-GB'), {day:'2-digit', month:'2-digit'}) + ' · ' + fmt(e.s)),
+        h('span', null, dt.toLocaleDateString(LOC[ui()], {day:'2-digit', month:'2-digit'}) + ' · ' + fmt(e.s)),
         h('span', {class:e.pass ? 'pass' : 'fail'}, e.c + ' / ' + e.t + ' · ' + Math.round(e.c/e.t*100) + '%'));
     }))) : null;
 
@@ -264,14 +498,15 @@ function viewHome(){
       h('div', null,
         h('span', {class:'eyebrow'}, 'Scrum.org · Professional Scrum Master I'),
         h('h1', null, t('PSM I Тренажёр', 'PSM I Trainer')),
-        h('p', null, t(Q.length + ' вопросов на английском, как на экзамене, с переводом и объяснениями на русском и English.', Q.length + ' questions in English, as in the exam, with Russian translation and explanations in Russian and English.'))),
+        h('p', {class:'about'}, t('Подготовка к экзамену Scrum.org PSM I: тренировка, пробный экзамен и разбор ошибок.', 'Prep for the Scrum.org PSM I exam: practice, a timed mock exam and mistake review.')),
+        h('p', null, Q.length + ' ' + lx({ru:'вопросов на английском, как на экзамене, с переводом и объяснениями на русском и English.', en:'questions in English, as in the exam, with explanations.', de:'Fragen auf Englisch wie in der Prüfung, mit Übersetzung und Erklärungen auf Deutsch und English.', es:'preguntas en inglés, como en el examen, con traducción y explicaciones en español y English.'}))),
       installEvt && !standalone ? installRow : null),
     h('div', {class:'stats'},
       h('div', {class:'stat'}, h('b', null, Q.length), h('span', null, t('всего вопросов', 'total questions'))),
       h('div', {class:'stat'}, h('b', null, seen), h('span', null, t('уже отвечено', 'answered so far'))),
       h('div', {class:'stat'}, h('b', null, okc), h('span', null, t('верно в последний раз', 'correct last time'))),
       h('div', {class:'stat'}, h('b', null, bad), h('span', null, t('нужно повторить', 'to review')))),
-    h('div', {class:'meter', role:'img', 'aria-label':t('Верно ' + okc + ', с ошибкой ' + bad + ', новых ' + fresh, 'Correct ' + okc + ', wrong ' + bad + ', new ' + fresh)},
+    h('div', {class:'meter', role:'img', 'aria-label':lx({ru:'Верно ' + okc + ', с ошибкой ' + bad + ', новых ' + fresh, en:'Correct ' + okc + ', wrong ' + bad + ', new ' + fresh, de:'Richtig ' + okc + ', falsch ' + bad + ', neu ' + fresh, es:'Correctas ' + okc + ', incorrectas ' + bad + ', nuevas ' + fresh})},
       h('i', {class:'m-ok', style:'width:' + pc(okc)}), h('i', {class:'m-bad', style:'width:' + pc(bad)})),
     h('div', {class:'legend'}, h('span', {class:'l-ok'}, t('верно', 'correct')), h('span', {class:'l-bad'}, t('с ошибкой', 'wrong')), h('span', null, t('ещё не отвечено', 'not answered yet'))),
     h('div', {class:'panels'}, practice, exam),
@@ -283,6 +518,7 @@ function viewHome(){
 }
 
 function optionList(it, mode, ruOn){
+  var tr = ruOn ? tq(it.q) : null;
   /* mode: 'play' | 'feedback' | 'review' */
   var q = it.q, multi = needCount(q) > 1;
   return h('div', {class:'opts', role: multi ? 'group' : 'radiogroup'},
@@ -298,7 +534,7 @@ function optionList(it, mode, ruOn){
       var mark = mode === 'play' ? (sel ? '✓' : (pos < 9 ? String(pos + 1) : '')) : (sel || o.ok ? (o.ok ? '✓' : '✕') : '');
       return h('button', attrs,
         h('span', {class:'mk', 'aria-hidden':'true'}, mark),
-        h('span', {class:'tx'}, h('span', {lang:'en'}, o.t), ruOn ? h('span', {class:'ru', lang:'ru'}, o.r) : null),
+        h('span', {class:'tx'}, h('span', {lang:'en'}, o.t), tr ? h('span', {class:'ru', lang:ui()}, tr.o[oi]) : null),
         vd ? h('span', {class:'vd'}, vd) : null);
     }));
 }
@@ -313,7 +549,7 @@ function viewQuiz(){
   var it = S.items[S.i], q = it.q, exam = S.mode === 'exam', n = S.items.length, need = needCount(q);
   var fb = !exam && it.checked, ok = fb && isCorrect(it);
   var left = exam ? (S.deadline - Date.now())/1000 : 0;
-  var bi = !exam && P.set.lang === 'bi';
+  var bi = !exam && transOn();
   var ruOn = bi && it.ru;
   var showEx = explVisible(it);
 
@@ -340,7 +576,7 @@ function viewQuiz(){
     P.flag[q.id] ? t('Отмечен', 'Flagged') : t('Отметить на потом', 'Flag for later'));
 
   var ruBtn = bi ? h('button', {class:'btn small', type:'button', 'aria-pressed':String(it.ru), onclick:function(){ it.ru = !it.ru; render(); }},
-    it.ru ? t('Скрыть русский', 'Hide Russian') : t('Показать по-русски', 'Show in Russian')) : null;
+    it.ru ? lx({ru:'Скрыть русский', de:'Deutsch ausblenden', es:'Ocultar español'}) : lx({ru:'Показать по-русски', de:'Auf Deutsch anzeigen', es:'Mostrar en español'})) : null;
 
   var actions;
   if (exam){
@@ -376,14 +612,14 @@ function viewQuiz(){
   }
 
   var keysHint = exam ? t('Клавиши: 1–9 выбрать вариант, ← → переход между вопросами.', 'Keys: 1–9 select an option, ← → move between questions.')
-    : t('Клавиши: 1–9 выбрать вариант, Enter проверить / дальше', 'Keys: 1–9 select an option, Enter check / next') + (bi ? t(', R русский', ', R Russian') : '') + t(', E объяснение.', ', E explanation.');
+    : t('Клавиши: 1–9 выбрать вариант, Enter проверить / дальше', 'Keys: 1–9 select an option, Enter check / next') + (bi ? lx({ru:', R русский', de:', R Deutsch', es:', R español'}) : '') + t(', E объяснение.', ', E explanation.');
 
   return h('div', null, bar,
     h('div', {class:'qcol'},
       h('div', {class:'card'}, tags,
         h('h2', {class:'qtext', lang:'en'}, q.q),
         ruBtn ? h('div', {class:'langrow'}, ruBtn) : null,
-        ruOn ? h('p', {class:'qru', lang:'ru'}, q.qr) : null,
+        ruOn && tq(q) ? h('p', {class:'qru', lang:ui()}, tq(q).q) : null,
         optionList(it, fb ? 'feedback' : 'play', ruOn),
         fb ? h('div', {class:'verdict ' + (ok ? 'ok' : 'bad'), role:'status'}, ok ? t('Верно.', 'Correct.') : t('Неверно. Правильные ответы отмечены зелёным.', 'Wrong. The correct answers are marked green.')) : null,
         showEx ? explBlock(q) : null,
@@ -398,7 +634,7 @@ function viewResult(){
   var skipped = S.items.filter(function(it){ return !it.checked; });
   var list = S.filter === 'wrong' ? wrong.concat(exam ? skipped : []) : S.items.filter(function(it){ return exam || it.checked; });
   var cls = exam ? (r.pass ? 'ok' : 'bad') : (r.pct >= 85 ? 'ok' : (r.pct < 60 ? 'bad' : ''));
-  var ruOn = P.set.lang === 'bi';
+  var ruOn = transOn();
 
   var fSeg = h('div', {class:'segs', role:'group', 'aria-label':t('Фильтр разбора', 'Review filter')},
     [{v:'wrong', t:t('Ошибки', 'Mistakes') + (exam && skipped.length ? t(' и пропуски', ' and skipped') : ''), n:wrong.length + (exam ? skipped.length : 0)},
@@ -411,7 +647,7 @@ function viewResult(){
     return h('details', {class:'r'},
       h('summary', null, h('span', {class:'st ' + st[0]}, st[1]), h('span', {lang:'en'}, '№ ' + it.q.id + '. ' + it.q.q)),
       h('div', {class:'body'},
-        ruOn ? h('p', {class:'qru', lang:'ru'}, it.q.qr) : null,
+        ruOn && tq(it.q) ? h('p', {class:'qru', lang:ui()}, tq(it.q).q) : null,
         optionList(it, 'review', ruOn),
         explBlock(it.q)));
   })) : h('p', {class:'empty'}, S.filter === 'wrong' ? t('Ошибок нет.', 'No mistakes.') : t('Нечего показывать.', 'Nothing to show.'));
@@ -442,7 +678,7 @@ function applyTheme(){
   var mt = document.querySelector('meta[name="theme-color"]');
   if (mt) mt.setAttribute('content', isDark() ? '#0e1a22' : '#0a6f8c');
 }
-function applyLang(){ root.setAttribute('lang', P.set.ui === 'en' ? 'en' : 'ru'); document.title = t('PSM I Тренажёр', 'PSM I Trainer'); }
+function applyLang(){ root.setAttribute('lang', ui()); document.title = t('PSM I Тренажёр', 'PSM I Trainer'); }
 function svg(path){
   var ns = 'http://www.w3.org/2000/svg', s = document.createElementNS(ns, 'svg');
   s.setAttribute('viewBox', '0 0 24 24'); s.setAttribute('width', '18'); s.setAttribute('height', '18'); s.setAttribute('aria-hidden', 'true');
@@ -454,19 +690,55 @@ var SUN = ['M12 8a4 4 0 1 0 0 8 4 4 0 0 0 0-8z', 'M12 2v2M12 20v2M4.9 4.9l1.4 1.
 var MOON = ['M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z'];
 function setLang(l){ P.set.ui = l; save(); applyLang(); render(); }
 function toggleTheme(){ P.set.theme = isDark() ? 'light' : 'dark'; save(); applyTheme(); renderTools(); }
+var langOpen = false;
+var GLOBE = ['M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20z', 'M2 12h20', 'M12 2a15 15 0 0 1 0 20 15 15 0 0 1 0-20z'];
+function closeLang(){ if (langOpen){ langOpen = false; renderTools(); } }
 function renderTools(){
   if (!tools) return;
-  var dark = isDark();
+  var dark = isDark(), cur = ui();
+  var menu = langOpen ? h('ul', {class:'langmenu', role:'menu', 'aria-label':t('Язык интерфейса', 'Interface language')},
+    LANGS.map(function(l){
+      return h('li', {role:'none'}, h('button', {type:'button', role:'menuitemradio', lang:l, 'aria-checked':String(cur === l), onclick:function(e){ e.stopPropagation(); langOpen = false; setLang(l); }},
+        h('span', null, LN[l]), h('span', {class:'chk', 'aria-hidden':'true'}, cur === l ? '✓' : '')));
+    })) : null;
   tools.replaceChildren(
-    h('div', {class:'langsw', role:'group', 'aria-label':t('Язык интерфейса', 'Interface language')},
-      ['ru', 'en'].map(function(l){
-        return h('button', {type:'button', lang:l, 'aria-pressed':String(P.set.ui === l), title: l === 'ru' ? 'Русский' : 'English', onclick:function(){ setLang(l); }}, l.toUpperCase());
-      })),
+    h('div', {class:'langwrap'},
+      h('button', {class:'langbtn', type:'button', 'aria-haspopup':'menu', 'aria-expanded':String(langOpen), title:t('Язык интерфейса', 'Interface language'),
+        'aria-label':t('Язык интерфейса', 'Interface language') + ': ' + LN[cur], onclick:function(e){ e.stopPropagation(); langOpen = !langOpen; renderTools(); }},
+        svg(GLOBE), h('span', null, cur.toUpperCase())),
+      menu),
     h('button', {class:'themebtn', type:'button', 'aria-pressed':String(dark),
       'aria-label': dark ? t('Включить светлую тему', 'Switch to light mode') : t('Включить тёмную тему', 'Switch to dark mode'),
       title: dark ? t('Светлая тема', 'Light mode') : t('Тёмная тема', 'Dark mode'), onclick:toggleTheme}, svg(dark ? SUN : MOON)));
+  if (langOpen){ var first = tools.querySelector('.langmenu button[aria-checked="true"]') || tools.querySelector('.langmenu button'); if (first) first.focus(); }
 }
-try { matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(){ if (P.set.theme === 'auto'){ applyTheme(); renderTools(); } }); } catch(e){}
+document.addEventListener('click', function(){ closeLang(); });
+document.addEventListener('keydown', function(e){ if (e.key === 'Escape' && langOpen){ langOpen = false; renderTools(); var b = tools.querySelector('.langbtn'); if (b) b.focus(); } });
+
+/* popover tip above an element */
+var toastEl = null, toastTimer = null;
+var justHid = false;
+function hideToast(){ clearTimeout(toastTimer); document.removeEventListener('click', hideToast, true); if (toastEl){ toastEl.remove(); toastEl = null; justHid = true; setTimeout(function(){ justHid = false; }, 0); } }
+function toast(msg, anchor){
+  hideToast();
+  toastEl = h('div', {class:'toast', role:'status'}, h('span', null, msg),
+    h('button', {type:'button', 'aria-label':t('Закрыть', 'Close'), onclick:hideToast}, '×'),
+    h('i', {class:'arrow', 'aria-hidden':'true'}));
+  document.body.appendChild(toastEl);
+  if (anchor){
+    var r = anchor.getBoundingClientRect(), vw = document.documentElement.clientWidth;
+    var w = Math.min(320, vw - 24); toastEl.style.width = w + 'px';
+    var cx = r.left + r.width/2, left = Math.max(12, Math.min(cx - w/2, vw - w - 12));
+    var hgt = toastEl.offsetHeight, above = r.top >= hgt + 20;
+    toastEl.style.left = (left + window.scrollX) + 'px';
+    toastEl.style.top = (above ? r.top + window.scrollY - hgt - 12 : r.bottom + window.scrollY + 12) + 'px';
+    toastEl.classList.add(above ? 'up' : 'down');
+    toastEl.querySelector('.arrow').style.left = Math.max(14, Math.min(cx - left, w - 14)) + 'px';
+  }
+  toastTimer = setTimeout(hideToast, 3500);
+  setTimeout(function(){ if (toastEl) document.addEventListener('click', hideToast, true); }, 0);
+}
+window.addEventListener('resize', hideToast);
 
 function render(){
   var v = !S ? viewHome() : (S.view === 'result' ? viewResult() : viewQuiz());
@@ -484,7 +756,7 @@ document.addEventListener('keydown', function(e){
     e.preventDefault();
     if (exam){ if (S.i < S.items.length - 1) next(); }
     else if (!it.checked) check(); else next();
-  } else if (!exam && (e.key === 'r' || e.key === 'R' || e.key === 'к' || e.key === 'К') && P.set.lang === 'bi'){ it.ru = !it.ru; render(); }
+  } else if (!exam && (e.key === 'r' || e.key === 'R' || e.key === 'к' || e.key === 'К') && transOn()){ it.ru = !it.ru; render(); }
   else if (!exam && (e.key === 'e' || e.key === 'E' || e.key === 'у' || e.key === 'У') && it.checked){ it.ex = !it.ex; render(); }
   else if (exam && e.key === 'ArrowRight' && S.i < S.items.length - 1){ S.i++; render(); }
   else if (exam && e.key === 'ArrowLeft' && S.i > 0){ S.i--; render(); }
@@ -497,6 +769,8 @@ applyTheme(); applyLang();
 render();
 
 if ('serviceWorker' in navigator && /^https?:$/.test(location.protocol)){
+  var hadCtl = !!navigator.serviceWorker.controller, reloaded = false;
+  navigator.serviceWorker.addEventListener('controllerchange', function(){ if (hadCtl && !reloaded && !S){ reloaded = true; location.reload(); } });
   window.addEventListener('load', function(){ navigator.serviceWorker.register('sw.js').catch(function(){}); });
 }
 })();

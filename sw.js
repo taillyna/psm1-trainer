@@ -1,6 +1,6 @@
 /* Service worker: кэширует приложение, чтобы оно работало без интернета.
    При изменении файлов поменяйте номер версии в CACHE. */
-var CACHE = 'psm1-v3';
+var CACHE = 'psm1-v12';
 var ASSETS = ['./', 'index.html', 'styles.css', 'app.js', 'data/questions.js', 'manifest.webmanifest',
   'icons/icon-192.png', 'icons/icon-512.png', 'icons/icon-maskable-512.png', 'icons/apple-touch-icon.png'];
 
